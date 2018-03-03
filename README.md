@@ -3,7 +3,7 @@
 ## Objectives
 1. Understand the significance of capturing and operating on user input in a CLI application.
 2. Create a prompt for user input in a CLI.
-3. Use the `#gets` method to capture, store, and operate on that input.
+3. Use the `#gets` method to capture, store, and operate on that input. 
 
 ## User Input and the CLI
 >I think it's fair to say that personal computers have become the most empowering tool we've ever created. They're tools of communication, they're tools of creativity, and they can be shaped by their user. –– Bill Gates
