@@ -148,3 +148,4 @@ The `#chomp` method works similarly, and you are likely to see `#gets.chomp` use
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-gets-input' title='gets CLI Input'>`gets` CLI Input</a> on Learn.co and start learning to code for free.</p>
 # ProgressChart
+# ProgressChart
