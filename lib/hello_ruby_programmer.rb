@@ -1,3 +1,4 @@
+gets = "janan"
 def greeting(name)
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
@@ -7,4 +8,3 @@ name = gets.strip
 greeting(name)
 gets = "janan"
 puts = "Hi, #{gets}! Welcome to the wonderful world of Ruby programming."
-
