@@ -1,3 +1,3 @@
-def greeting
+def greeting (namel)
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
