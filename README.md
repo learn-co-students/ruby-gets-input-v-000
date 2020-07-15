@@ -147,3 +147,5 @@ One thing to know about the `#gets` method is that it captures a new line charac
 The `#chomp` method works similarly, and you are likely to see `#gets.chomp` used in some examples online. The `#chomp` method removes any new lines at the end of a string while the `#strip` method removes whitespace (leading and trailing) *and* new lines.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-gets-input' title='gets CLI Input'>`gets` CLI Input</a> on Learn.co and start learning to code for free.</p>
+# ProgressChart
+# ProgressChart
